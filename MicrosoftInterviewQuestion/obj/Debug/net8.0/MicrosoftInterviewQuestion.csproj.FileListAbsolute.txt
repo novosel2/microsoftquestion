@@ -1,0 +1,14 @@
+D:\All\Coding\aspnetcore\MicrosoftInterviewQuestion\MicrosoftInterviewQuestion\bin\Debug\net8.0\MicrosoftInterviewQuestion.exe
+D:\All\Coding\aspnetcore\MicrosoftInterviewQuestion\MicrosoftInterviewQuestion\bin\Debug\net8.0\MicrosoftInterviewQuestion.deps.json
+D:\All\Coding\aspnetcore\MicrosoftInterviewQuestion\MicrosoftInterviewQuestion\bin\Debug\net8.0\MicrosoftInterviewQuestion.runtimeconfig.json
+D:\All\Coding\aspnetcore\MicrosoftInterviewQuestion\MicrosoftInterviewQuestion\bin\Debug\net8.0\MicrosoftInterviewQuestion.dll
+D:\All\Coding\aspnetcore\MicrosoftInterviewQuestion\MicrosoftInterviewQuestion\bin\Debug\net8.0\MicrosoftInterviewQuestion.pdb
+D:\All\Coding\aspnetcore\MicrosoftInterviewQuestion\MicrosoftInterviewQuestion\obj\Debug\net8.0\MicrosoftInterviewQuestion.GeneratedMSBuildEditorConfig.editorconfig
+D:\All\Coding\aspnetcore\MicrosoftInterviewQuestion\MicrosoftInterviewQuestion\obj\Debug\net8.0\MicrosoftInterviewQuestion.AssemblyInfoInputs.cache
+D:\All\Coding\aspnetcore\MicrosoftInterviewQuestion\MicrosoftInterviewQuestion\obj\Debug\net8.0\MicrosoftInterviewQuestion.AssemblyInfo.cs
+D:\All\Coding\aspnetcore\MicrosoftInterviewQuestion\MicrosoftInterviewQuestion\obj\Debug\net8.0\MicrosoftInterviewQuestion.csproj.CoreCompileInputs.cache
+D:\All\Coding\aspnetcore\MicrosoftInterviewQuestion\MicrosoftInterviewQuestion\obj\Debug\net8.0\MicrosoftInterviewQuestion.dll
+D:\All\Coding\aspnetcore\MicrosoftInterviewQuestion\MicrosoftInterviewQuestion\obj\Debug\net8.0\refint\MicrosoftInterviewQuestion.dll
+D:\All\Coding\aspnetcore\MicrosoftInterviewQuestion\MicrosoftInterviewQuestion\obj\Debug\net8.0\MicrosoftInterviewQuestion.pdb
+D:\All\Coding\aspnetcore\MicrosoftInterviewQuestion\MicrosoftInterviewQuestion\obj\Debug\net8.0\MicrosoftInterviewQuestion.genruntimeconfig.cache
+D:\All\Coding\aspnetcore\MicrosoftInterviewQuestion\MicrosoftInterviewQuestion\obj\Debug\net8.0\ref\MicrosoftInterviewQuestion.dll
